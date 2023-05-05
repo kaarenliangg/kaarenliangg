@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Karen
 
-A WIP Junior Dev. 
+A WIP Junior Dev with a WIP README.
 
 
 <!--
