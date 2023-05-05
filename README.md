@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello 👋 I'm Karen
+<hr> 
+A WIP Junior Dev. 
 
 
 <!--
